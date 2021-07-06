@@ -1,24 +1,8 @@
-# tutorial-proj
+# VueJS Quiz App
 
-## Project setup
-```
-npm install
-```
+## Project description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A simple VueJS quiz app which consumes the Open Trivia API.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The intention of this project was to further my understanding of VueJS and its Options API.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
